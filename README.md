@@ -39,6 +39,9 @@ The base URL for the API is `/api/v1/posts`.
 
 ## How to Test
 
+## Roadmap submission link
+https://roadmap.sh/projects/blogging-platform-api
+
 To run the tests, use the following command:
 
 ```bash
